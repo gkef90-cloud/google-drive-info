@@ -1,2 +1,2 @@
 # google-drive-info
-GLK Bazzite Google Drive
+G Bazzite Google Drive
